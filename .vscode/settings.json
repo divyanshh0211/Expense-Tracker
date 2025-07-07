@@ -1,0 +1,9 @@
+{
+  "css.validate": false, // disables annoying invalid CSS errors
+  "tailwindCSS.includeLanguages": {
+    "css": "css",
+    "typescript": "javascript",
+    "typescriptreact": "javascript"
+  },
+  "tailwindCSS.experimental.configFile": "./tailwind.config.js"
+}
